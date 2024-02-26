@@ -1,2 +1,2 @@
 # siarom-anavoig 📼
-  "O caos é inevitável, e tudo deve ser o Caos"
+  "Chaos is inevitable and everything must be chaos"
