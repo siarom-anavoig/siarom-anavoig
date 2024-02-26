@@ -1,3 +1,4 @@
 # siarom-anavoig 📼
-  🎞 3TI 
-  🎞 "O caos é inevitável, e tudo deve ser o Caos" 
+  - 3TI 
+  - "O caos é inevitável, e tudo deve ser o Caos"
+  - 
