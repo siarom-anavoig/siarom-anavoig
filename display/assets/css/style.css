@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.div1{
+    background-color: rgb(115, 236, 236);
+    width: 300px;
+    height: 300px;
+    display: block;
+
+}
+
+.div2{
+    background-color: rgb(231, 49, 49);
+    width: 300px;
+    height: 300px;
+    display: block;
+}
+
+.div3{
+    background-color: rgb(195, 96, 235);
+    width: 300px;
+    height: 300px;
+    display: block;
+}

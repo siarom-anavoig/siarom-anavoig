@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div1{
+    background-color: rgb(152, 103, 243);
+    width: 100px;
+    height: 100px;
+}
+
+.div2{
+    background-color: rgb(154, 255, 196);
+    width: 100px;
+    height: 100px;
+}
+
+.div3{
+    background-color: rgb(255, 136, 205);
+    width: 100px;
+    height: 100px;
+}
