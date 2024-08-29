@@ -1,0 +1,23 @@
+.container {
+    display:flex;
+    /*flex-direction: row; /* trabalhando por linhas*/
+    height: 200px;
+    align-items: stretch;
+    justify-content: center;
+    /*flex-wrap: wrap-reverse; /*uma quebra por linha*/
+    flex-flow: row wrap-reverse;
+}
+
+.div1 {
+    background-color: rgb(168, 61, 230);
+
+}
+
+.div2 {
+    background-color: rgb(228, 68, 68);
+}
+
+.div3 {
+    background-color: rgb(57, 216, 118);
+
+}
